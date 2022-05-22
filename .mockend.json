@@ -3,6 +3,7 @@
     "title": { "string": {} },
     "subtitle": { "string": {} },
     "body": { "string": {} },
+    "isPublished": { "boolean" : {} },
     "comments": {
       "hasMany": "Comment"
     }
